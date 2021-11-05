@@ -1,0 +1,16 @@
+.header{
+    background-color: #1470e9;
+    padding: 10px;
+    border: none;
+   
+    
+}
+.header-container{
+    display: flex;
+    width: 100%;
+    
+}
+.logo{
+    width: 15% !important;
+    /* height: 10%; */
+}

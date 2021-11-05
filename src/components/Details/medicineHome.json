@@ -1,0 +1,74 @@
+[
+    {
+      "id": "1",
+      "name": "Ibuprofen 200mg Capsule",
+      "img": "https://pharmacare.qodeinteractive.com/wp-content/uploads/2021/02/product7-fetaured.jpg",
+      "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore rem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy",
+      "price": "$42",
+      "rating": 4.9
+    },
+    {
+        "id": "2",
+        "name": "Natural Elixir For Perfect Skin",
+        "img": "https://pharmacare.qodeinteractive.com/wp-content/uploads/2021/02/product3-fetaured.jpg",
+        "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore rem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy ",
+        "price": "$22",
+        "rating": 4.0
+      },
+      {
+        "id": "3",
+        "name": "Alvedon® Film-coated tablet 500 mg 30 pieces",
+        "img": "https://pharmacare.qodeinteractive.com/wp-content/uploads/2021/02/product10-fetaured.jpg",
+        "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore rem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy ",
+        "price": "$52",
+        "rating": 5.0
+      },
+      {
+        "id": "4",
+        "name": "Body Loation – skin care for sensitive skin",
+        "img": "https://pharmacare.qodeinteractive.com/wp-content/uploads/2021/02/product9-fetaured.jpg",
+        "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore rem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy ",
+        "price": "$49",
+        "rating": 3.9
+      },
+      {
+        "id": "5",
+        "name": "Ibuprofen 220mg capsules x16",
+        "img": "https://pharmacare.qodeinteractive.com/wp-content/uploads/2021/02/product7-fetaured.jpg",
+        "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore rem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy ",
+        "price": "$26",
+        "rating": 4.5
+      },
+      {
+        "id": "6",
+        "name": "Cetirizine 12mg Film-coated Tablets",
+        "img": "https://pharmacare.qodeinteractive.com/wp-content/uploads/2021/02/product2-fetaured.jpg",
+        "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore rem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy",
+        "price": "$10",
+        "rating": 4.9
+      },
+      {
+        "id": "7",
+        "name": "Cetirizine 14mg Film-coated Tablets",
+        "img": "https://pharmacare.qodeinteractive.com/wp-content/uploads/2021/02/product4-fetaured.jpg",
+        "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore rem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy ",
+        "price": "$12",
+        "rating": 5.0
+      },
+      {
+        "id": "8",
+        "name": "Face Snail Serum 200ml Tube",
+        "img": "https://pharmacare.qodeinteractive.com/wp-content/uploads/2021/02/product15-fetaured.jpg",
+        "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore rem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy ",
+        "price": "$40",
+        "rating": 2.8
+      },
+      {
+        "id": "9",
+        "name": "Sunscreen® Stick 250ml 50+ Protection",
+        "img": "https://pharmacare.qodeinteractive.com/wp-content/uploads/2021/02/product14-fetaured.jpg",
+        "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore rem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy",
+        "price": "$72",
+        "rating": 5.0
+      }
+  ]

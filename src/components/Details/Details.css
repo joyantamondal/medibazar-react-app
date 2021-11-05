@@ -1,0 +1,10 @@
+.details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.details-inner{
+    width: 20rem;
+    margin: 10px;
+}
